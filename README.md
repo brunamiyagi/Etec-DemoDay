@@ -1,16 +1,16 @@
-# Etec-DemoDay
+# Etec- Demo Day
 Projeto em grupo com a junção das classes A e B.
 
 Projeto consiste na criação de um site que será um Quiz online sobre disciplinas da etec.
 temos as seguintes divisões de grupos e tarefas.
 
-<h1>No front </h1>
----
-login de usuario 
-ranqueamento
---
+##Tecnologias utilizadas:
+![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript) - Tecnologia para integração da API com Front End
 
-<h1> no back end </h1>
+<h1>Front End</h1>
+
+
+<h1> Back end </h1>
 
 
  **Registro de usuário:**
