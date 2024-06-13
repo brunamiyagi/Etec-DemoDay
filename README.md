@@ -25,6 +25,15 @@ Pensando na otimização do projeto decidimos nos dividir em três frentes princ
 **Página do teste:**
 <p>A página do teste exibirá as questões alternativas, uma por vez, sendo que cada uma terá quatro opções e apenas certa. Se o usuário acertar, deve a laternativa correta deve ficar verde e aparecer uma opção para prosseguir o teste.</p>
 
+**Página de ranking**
+<p>Ao final do teste será mostrado o ranking com os dez primeiros lugares, sendo que, se o user logado estiver empatado no primeiro lugar com outros participantes, seu nome será exibido em destaque.</p>
+
+**Criação de insignia**
+<p>A cada 100 pontos o usuário adquirirá um novo emblema.</p>
+
+**Design Geral**
+<p>A página deverá ter uma identidade visual padronizada.</p>
+
 <h2>Back End</h2>
 
  **Registro de usuário:**
